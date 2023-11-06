@@ -1,0 +1,174 @@
+body {
+    background-image: url(img.avif);
+}
+
+.main {
+    background-color: #5c54b7;
+    margin-top: 6.8em;
+    margin-left: 30em;
+    width: 26%;
+    border-radius: 2%;
+}
+
+
+.main h1 {
+    font-family: sans-serif;
+    color: white;
+    margin-left: 115px;
+}
+
+.main .first {
+    display: flex;
+}
+
+.main .first i {
+    font-size: 40px;
+    position: relative;
+    left: 110px;
+    top: 20px;
+}
+
+.main .box {
+    text-align: center;
+    width: 42px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+    left: 29px;
+}
+
+.main .box i {
+    position: relative;
+    top: 1.3px;
+}
+
+.main .boxx {
+    text-align: center;
+    width: 42px;
+    height: 41px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 32px;
+    position: relative;
+    top: -20px;
+    left: 150px;
+}
+
+.main .boxx i,
+.main .box1 i {
+    position: relative;
+    top: 3px;
+}
+
+.main .box1 {
+    text-align: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    font-size: 32px;
+    position: relative;
+    top: -60px;
+    left: 280px;
+}
+
+.prec {
+    width: 23%;
+    height: 3vh;
+    position: relative;
+    left: 30.9em;
+    top: 7em;
+    background-color: #000000;
+}
+
+.prec p {
+    width: 4%;
+    height: 2.2vh;
+    color: #fff7f7;
+    position: relative;
+    bottom: 4.9em;
+    left: 12em;
+    background-color: white;
+    border-radius: 70%
+}
+
+.prec h1 {
+    color: #574ec6;
+    width: 65.3%;
+    height: 3vh;
+    position: relative;
+    bottom: 39px;
+    background: linear-gradient(to right, #3afc00, #d92100);
+    border-radius: 90px;
+    margin-left: -1px;
+}
+
+.two {
+    width: 26%;
+    height: 27vh;
+    background-color: #574ec6;
+    margin-left: 30em;
+    border-radius: 8px;
+}
+
+.two p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 23px;
+    position: relative;
+    top: 16px;
+    left: 17px;
+}
+
+
+.two p span {
+    color: white;
+    position: relative;
+    top: -8px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.two .num {
+    display: flex;
+    margin-top: 53px;
+    gap: 14em;
+}
+
+
+.two h2,
+.two h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.two h2 {
+    margin-left: 10px;
+}
+
+.f {
+    width: 7%;
+    height: 8vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffe1e1;
+    position: relative;
+    left: 37em;
+    bottom: 2em;
+}
+
+.f p{
+  font-size: 18px;
+    font-weight: bold;
+}
+
+.f p span {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #e50000;
+}
